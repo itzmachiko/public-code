@@ -1,7 +1,5 @@
 from tkinter import *
-import tkinter
 import tkinter as tk
-from tkinter import ttk
 
 main = tk.Tk()
 main.title('How is your GRADE ?')
